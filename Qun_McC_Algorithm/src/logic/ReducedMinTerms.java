@@ -5,7 +5,6 @@ import java.util.HashMap;
 
 import binaryTools.BinaryToDecimalCOnverter;
 import binaryTools.CalculatePossibleBinaries;
-import binaryTools.DecimalToBinaryConverter;
 import statics.StaticVariables;
 
 public class ReducedMinTerms {
